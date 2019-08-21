@@ -1,0 +1,56 @@
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.deps.json
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.json
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.dev.json
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csprojAssemblyReference.cache
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cache
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cs
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfoInputs.cache
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfo.cs
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\1895127\source\repos\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.deps.json
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.json
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.dev.json
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csprojAssemblyReference.cache
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cache
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cs
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfoInputs.cache
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfo.cs
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\Anis\Desktop\A16\webApi\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.deps.json
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.json
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.dev.json
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csprojAssemblyReference.cache
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cache
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cs
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfoInputs.cache
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfo.cs
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\Soft@.Net\Desktop\A16\webApiV2\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.deps.json
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.json
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\bin\Debug\netcoreapp2.2\CarsWebApi.pdb
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.AssemblyInfo.cs
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.dll
+C:\Users\Asus\Desktop\A16\Devoir WebApi_Anis_Boutekadjiret_1895127\CarsWebApi\CarsWebApi\obj\Debug\netcoreapp2.2\CarsWebApi.pdb
